@@ -13,9 +13,11 @@ Another guy who loves coding and solving problems. React Front End Developer, Am
 - 📖 Studying React with [Fernando Herrera](https://fernando-herrera.com).
 - 😆 Fun fact: I used to have long hair. 😅
 
-Contact me in [Telegram](https://t.me/Vallejoanderson), [Twitter](https://twitter.com/vallejoaa) and [Linkedin](https://www.linkedin.com/in/anderson-vallejo-643367a2/.)
+Contact me in:
 
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vallejo-643367a2/.)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vallejoaa)
 
 <!--
 **Vallejoanderson/vallejoanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
