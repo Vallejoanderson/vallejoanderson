@@ -1,17 +1,9 @@
 # Hello / Hola / Olá
 
-```js
-  if(youAreHuman){
-    console.log("I'm Anderson");
-  }
-```
-
 Another guy who loves coding and solving problems. React Front End Developer, Amateur Chess Player and Books Lover. 💻
 
 - ❗ Interested in Open Source world (Currently collaborating with [MDN](https://github.com/mdn)).
 - 🤝 Looking to collaborate with other Open Source content creators.
-- 📖 Learning React.
-- 😆 Fun fact: I used to have long hair. 😅
 
 ![](https://komarev.com/ghpvc/?username=vallejoanderson&color=blue&label=Profile+Views)
 
