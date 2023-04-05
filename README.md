@@ -1,6 +1,6 @@
 # Hello / Hola / Olá
 
-Another guy who loves coding and solving problems. React Front End Developer, Amateur Chess Player and Books Lover. 💻
+Another guy who loves coding and solving problems. Developer, Amateur Chess Player and Books Lover. 💻
 
 - ❗ Interested in Open Source world (Currently collaborating with [MDN](https://github.com/mdn)).
 - 🤝 Looking to collaborate with other Open Source content creators.
