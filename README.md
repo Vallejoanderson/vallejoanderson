@@ -1,9 +1,4 @@
-# Hello / Hola / Olá
 
-Another guy who loves coding and solving problems. Developer, Amateur Chess Player and Books Lover. 💻
-
-- ❗ Interested in Open Source world (Currently collaborating with [MDN](https://github.com/mdn)).
-- 🤝 Looking to collaborate with other Open Source content creators.
 
 ![](https://komarev.com/ghpvc/?username=vallejoanderson&color=blue&label=Profile+Views)
 
